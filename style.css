@@ -1,0 +1,21 @@
+/* 基本的Material Design风格 */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-wrapper {
+    background-color: #2196F3; /* 蓝色主题 */
+}
+
+.container {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.page-footer {
+    background-color: #2196F3;
+    color: white;
+    padding: 20px;
+}
+
+
